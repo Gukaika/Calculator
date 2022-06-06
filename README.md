@@ -1,4 +1,4 @@
 # Calculator
 simple calculator
 
-https://Gukaika.github.io/calculator/
+https://Gukaika.github.io/Сalculator/
